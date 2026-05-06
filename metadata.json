@@ -1,0 +1,6 @@
+{
+  "name": "DanceStyle AI Predictor",
+  "description": "A machine learning application that recommends dance styles based on student profiles using FastAPI and scikit-learn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
